@@ -84,3 +84,57 @@ color: white;
 .intro img {
 	border-radius: 5px;
 }
+
+/* form */
+
+input, select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+legend input, legend label {
+  display: block;
+}
+.signup input{
+  width: fit-content;
+}
+
+fieldset {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    border-radius: 4px;
+    background-color: white;
+}
+
+  form {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    padding: 30px 16px;
+    margin: 0 auto;
+    border-radius: 5px 5px 0 0;
+    width: 40rem;
+    background-color: #e5f0ee;
+  }
+
+  .submit {
+    margin-top: 2rem;
+    background-color: #599B8F;
+    font-size: large;
+    color: white;
+    cursor: pointer;
+  }
+
+  h2 {
+    text-align: center;
+  }
+
+  @media screen and (max-width: 600px) {
+    .col-25, .col-75, input[type=submit] {
+      width: 100%;
+      margin-top: 0;
+    }
+  }
+  
