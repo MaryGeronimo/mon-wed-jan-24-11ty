@@ -1,16 +1,61 @@
 ---
 layout: layouts/base.njk
 ---
-<!-- Delete this message, it will also remove the component CSS from the bundle -->
-{%- css %}{% include "public/css/message-box.css" %}{% endcss %}
-<div class="message-box">
-	<ol>
-		<li>Edit the <code>_data/metadata.js</code> with your blog’s information.</li>
-		<li>(Optional) Edit <code>eleventy.config.js</code> with your <a href="https://www.11ty.dev/docs/config/">configuration preferences</a>.</li>
-		<li>Delete this message from <code>_includes/layouts/home.njk</code>.</li>
-	</ol>
-	<p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
-</div>
-<!-- Stop deleting -->
 
+<div><h1 class="homeTitle">Mary Ashford</h1></div>
+
+<div class="intro">
+	<h2 class="vertical-word">Featured</h2>
+	<section id="featured-posts">
+      <div class="container">
+        <div class="row text-center g-4"> 
+          <div class="col-md"> 
+            <div class="card bg-dark text-light"> 
+              <div class="card-body">
+                <div class="h1 mb-3">
+                  <img src="/img/Accessibility.jpg" alt="lighthouse report" width=350px>
+                </div>
+                <h3 class="card-title mb-3">Exploring Accessibility</h3>
+                <p class="card-text">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Iure, quas quidem possimus dolorum esse eligendi?
+                </p>
+                <a href="#" class="btn btn-info">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="card bg-secondary text-light">
+              <div class="card-body text-center" id="mid-card">
+                <div class="h1 mb-3">
+                  <img src="/img/bootstrap.jpg" alt="use of bootstrap" width=350px>
+                </div>
+                <h3 class="card-title mb-3">Using Frameworks</h3>
+                <p class="card-text">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Iure, quas quidem possimus dolorum esse eligendi? 
+                </p>
+                <a href="#" class="btn btn-dark">Read More</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="card bg-dark text-light">
+              <div class="card-body text-center">
+                <div class="h1 mb-3">
+                  <img src="/img/forms.jpg" alt="example of online form" width=350px>
+                </div>
+                <h3 class="card-title mb-3">Form Processing</h3>
+                <p class="card-text">
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                  Iure, quas quidem possimus dolorum esse eligendi?
+                </p>
+                <a href="#" class="btn btn-info">Read More</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+</div>
 {{ content | safe }}
