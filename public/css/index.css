@@ -1,3 +1,17 @@
+body {
+	padding-top: 100px;
+}
+
+.centred {
+	margin: auto;
+	width: 90vw;
+	min-width: 300px;
+}
+
+.title {
+	padding-top: 2vw;
+}
+
 #navID { 
 	background-color: #003366 !important;
 }

@@ -1,13 +1,16 @@
 ---
-title: This is my second post with a much longer title.
-description: This is a post on My Blog about leveraging agile frameworks.
-date: 2018-07-04
+title: HTML and CSS at The Coder's Guild
+description: My thoughts following completion of the tasks from the first full session at The Coder's Guild
+date: 2024-01-15
 tags:
-  - number 2
+  - CSS
+  - HTML
+  - Portfolio
+  - Coder's Guild
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I have just begun the next step on my journey into coding and have started a course with Coder's Guild. Following our introductory session, we first delved into basics of HTML and CSS. 
 
-## Section Header
+<h1>Coder's Guild - HTML and CSS</h1>
 
 <a href="/blog/firstpost/">First post</a>
 <a href="/blog/thirdpost/">Third post</a>
