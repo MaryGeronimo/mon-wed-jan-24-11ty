@@ -8,13 +8,19 @@ tags:
   - Portfolio
   - Coder's Guild
 ---
-I have just begun the next step on my journey into coding and have started a course with Coder's Guild. Following our introductory session, we first delved into basics of HTML and CSS. 
+I have just begun the next step on my journey into coding and have started a course with The Coder's Guild. Following our introductory session, we first delved into basics of HTML and CSS. 
 
 <h1>Coder's Guild - HTML and CSS</h1>
 
 <a href="/blog/firstpost/">First post</a>
 <a href="/blog/thirdpost/">Third post</a>
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+As Code First Girls taught me HTML and CSS I was fairly confident with this first session but was stuck when it came to applying my knowledge and completing the task of creating a portfolio homepage. 
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+I didn't know where to start and was overwhelmed and overthinking but, once I'd started, it was enjoyable to see what I could create with the little experience I had. 
+
+The requirements of the portfolio homepage were to create a page with a header, footer, a hero section, a list of skills and numerous other things. I was able to use my existing knowledge of bootstrap to help me with the header and footer and managed to add some styling to the page too. 
+
+The illustrated picture of me is by my talented brother, **Jai Ashford** 😊
+
+
