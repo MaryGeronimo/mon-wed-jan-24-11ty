@@ -23,4 +23,4 @@ The requirements of the portfolio homepage were to create a page with a header, 
 
 The illustrated picture of me is by my talented brother, **Jai Ashford** 😊
 
-
+<img style="border:black; border-width:2px; border-style:solid;" src="/img/portfolio.jpg" alt="Coder's Guild portfolio" width=600vw>
